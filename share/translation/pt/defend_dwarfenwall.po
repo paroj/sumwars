@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2014-06-17 08:12+0200\n"
-"Last-Translator: Zoé Junior <zoejunior@gmail.com>\n"
+"PO-Revision-Date: 2017-08-02 19:54+0000\n"
+"Last-Translator: George Bezerra <georgelione@gmail.com>\n"
 "Language-Team: Portuguese "
 "<https://hosted.weblate.org/projects/sumwars/defend_dwarfenwall/pt/>\n"
 "Language: pt\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 1.10-dev\n"
+"X-Generator: Weblate 2.16-dev\n"
 
 #: siegeOfDwarfenwall.xml:2
 msgid "Defend Dwarfenwall"
@@ -43,18 +43,19 @@ msgstr "Comando de dwarfenwall"
 msgid ""
 "... wind-elementals did see it clearly: It's only this one lich leading them."
 msgstr ""
+"... elementais do vento viram claramente: é apenas esse lich que os conduz."
 
 #: siegeOfDwarfenwall.xml:61
 msgid "When he's gone the others are no problem."
-msgstr ""
+msgstr "Quando ele se for, os outros não serão problema."
 
 #: siegeOfDwarfenwall.xml:62
 msgid "Just great."
-msgstr ""
+msgstr "Ótimo."
 
 #: siegeOfDwarfenwall.xml:63
 msgid "And with what army are you planning to do this break-through?"
-msgstr ""
+msgstr "E com qual exército você está planejando fazer esse avanço?"
 
 #: siegeOfDwarfenwall.xml:64
 msgid "We have to stop the rush, that is assembling out there."
@@ -66,11 +67,11 @@ msgstr "Não se preocupe."
 
 #: siegeOfDwarfenwall.xml:66
 msgid "My colleague assured me that the council is sending backup."
-msgstr ""
+msgstr "Meu colega me garantiu que o conselho está enviando reforços."
 
 #: siegeOfDwarfenwall.xml:67
 msgid "It should be here shortly."
-msgstr ""
+msgstr "Deve estar aqui em breve."
 
 #: siegeOfDwarfenwall.xml:69
 msgid ""
@@ -80,93 +81,99 @@ msgstr ""
 
 #: siegeOfDwarfenwall.xml:70
 msgid "What kind of game is this?"
-msgstr ""
+msgstr "Que tipo de jogo é esse?"
 
 #: siegeOfDwarfenwall.xml:71
 msgid "The mage is much needed elsewhere."
-msgstr ""
+msgstr "O mago é muito mais necessário em outros lugares."
 
 #: siegeOfDwarfenwall.xml:72
 msgid "Of course."
-msgstr ""
+msgstr "Claro."
 
 #: siegeOfDwarfenwall.xml:73
 msgid ""
 "I don't like saying this, but until an army makes it's way here, our bodies "
 "are long fighting for the other side, venerated lady."
 msgstr ""
+"Não gosto de ter que dizer isso, mas até que um exército chegue aqui, nossos "
+"corpos já estarão há muito lutando pelo outro lado, venerada dama."
 
 #: siegeOfDwarfenwall.xml:84
 msgid ""
 "Excuse me for interrupting like that, but small groups travel considerably "
 "faster then armies."
 msgstr ""
+"Perdoe-me por interromper assim, mas grupos pequenos viajam "
+"consideravelmente mais rápido do que exércitos."
 
 #: siegeOfDwarfenwall.xml:87
 msgid "And who are you? ##solo"
-msgstr ""
+msgstr "E quem é você? ##solo"
 
 #: siegeOfDwarfenwall.xml:89
 msgid "And who are you?"
-msgstr ""
+msgstr "E quem são vocês?"
 
 #: siegeOfDwarfenwall.xml:91
 msgid "The backup."
-msgstr ""
+msgstr "O reforço."
 
 #: siegeOfDwarfenwall.xml:98
 msgid "Good joke."
-msgstr ""
+msgstr "Boa piada."
 
 #: siegeOfDwarfenwall.xml:99
 msgid "But we have a war here."
-msgstr ""
+msgstr "Mas temos uma guerra aqui."
 
 #: siegeOfDwarfenwall.xml:101 siegeOfDwarfenwall.xml:103
 msgid "Get lost, you fool."
-msgstr ""
+msgstr "Vá embora, idiota."
 
 #: siegeOfDwarfenwall.xml:105
 msgid "Get lost, you fools."
-msgstr ""
+msgstr "Vão embora, idiotas."
 
 #: siegeOfDwarfenwall.xml:110 siegeOfDwarfenwall.xml:112
 msgid "This mercenary is telling the truth."
-msgstr ""
+msgstr "Este mercenário diz a verdade."
 
 #: siegeOfDwarfenwall.xml:115
 msgid "What?"
-msgstr ""
+msgstr "O quê?"
 
 #: siegeOfDwarfenwall.xml:120
 msgid "This is your great backup?"
-msgstr ""
+msgstr "Esse é o seu grande reforço?"
 
 #: siegeOfDwarfenwall.xml:123
 msgid "A handful of mercenaries?"
-msgstr ""
+msgstr "Um punhado de mercenários?"
 
 #: siegeOfDwarfenwall.xml:126
 msgid ""
 "You will realize the worth of our assistance, when they fall for you again "
 "and again."
 msgstr ""
+"Você perceberá o valor da nossa ajuda, quando eles caírem por ti de novo e "
+"de novo."
 
 #: siegeOfDwarfenwall.xml:127
 msgid "What do you say?"
-msgstr ""
+msgstr "O que você disse?"
 
 #: siegeOfDwarfenwall.xml:131 siegeOfDwarfenwall.xml:133
 msgid "... is this a Cursed One?"
-msgstr ""
+msgstr "... este é um Amaldiçoado?"
 
 #: siegeOfDwarfenwall.xml:135
 msgid "... are they Cursed Ones?"
-msgstr ""
+msgstr "... eles são Amaldiçoados?"
 
 #: siegeOfDwarfenwall.xml:138
 msgid "Personally I like the term Branded One somehow better."
-msgstr ""
+msgstr "Pessoalmente prefiro o termo Marcado."
 
 #: siegeOfDwarfenwall.xml:142
 msgid ""
@@ -182,7 +189,7 @@ msgstr ""
 
 #: siegeOfDwarfenwall.xml:148
 msgid "You make a deal with the devil to drive out the devil?"
-msgstr ""
+msgstr "Você faz um acordo com o demônio para expulsar o demônio?"
 
 #: siegeOfDwarfenwall.xml:151
 msgid "You cannot be prim in times like these."
