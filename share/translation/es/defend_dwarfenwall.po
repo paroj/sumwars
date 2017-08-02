@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2014-03-05 21:55+0200\n"
-"Last-Translator: Rubén Viguera <vyproyects@gmail.com>\n"
+"PO-Revision-Date: 2017-08-02 19:49+0000\n"
+"Last-Translator: George Bezerra <georgelione@gmail.com>\n"
 "Language-Team: Spanish "
 "<https://hosted.weblate.org/projects/sumwars/defend_dwarfenwall/es/>\n"
 "Language: es\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 1.9-dev\n"
+"X-Generator: Weblate 2.16-dev\n"
 
 #: siegeOfDwarfenwall.xml:217 siegeOfDwarfenwall.xml:2211
 #: siegeOfDwarfenwall.xml:2538
@@ -913,7 +913,7 @@ msgstr "Este hombre está bajo mis órdenes directas."
 
 #: siegeOfDwarfenwall.xml:110 siegeOfDwarfenwall.xml:112
 msgid "This mercenary is telling the truth."
-msgstr "Estos mercenarios están diciendo la verdad."
+msgstr "Este mercenario está diciendo la verdad."
 
 #: siegeOfDwarfenwall.xml:2368
 msgid "This woman is under my direct order."
