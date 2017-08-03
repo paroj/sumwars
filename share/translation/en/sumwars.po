@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2013-11-01 15:49+0200\n"
-"Last-Translator: Stefan Stammberger <some.fusion@gmail.com>\n"
+"PO-Revision-Date: 2017-08-03 20:56+0000\n"
+"Last-Translator: monolifed <monolifed@gmail.com>\n"
 "Language-Team: English "
-"<http://hosted.weblate.org/projects/sumwars/sumwars/en/>\n"
+"<https://hosted.weblate.org/projects/sumwars/sumwars/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 1.8-dev\n"
+"X-Generator: Weblate 2.16-dev\n"
 
 #: aisen.xml:6
 msgid "aisMeadow"
@@ -1031,14 +1031,12 @@ msgid "Nar'Asoroth"
 msgstr "Nar'Asoroth"
 
 #: dwarfenwall.lua:313
-#, fuzzy
 msgid "Skinny Necromancer"
-msgstr "Necromancer"
+msgstr "Skinny Necromancer"
 
 #: dwarfenwall.lua:316
-#, fuzzy
 msgid "Scarfaced Necromancer"
-msgstr "Necromancer"
+msgstr "Scarfaced Necromancer"
 
 #: dwarfenwall.xml:6
 msgid "dwarfenwall"
@@ -1057,16 +1055,20 @@ msgid ""
 "Reverse this at once or every guard of Aisen will be on your trail, Cursed "
 "One! ##female"
 msgstr ""
+"Reverse this at once or every guard of Aisen will be on your trail, Cursed "
+"One! ##female"
 
 #: fortify_dwarfenwall.xml
 msgid ""
 "Reverse this at once or every guard of Aisen will be on your trail, Cursed "
 "One! ##male"
 msgstr ""
+"Reverse this at once or every guard of Aisen will be on your trail, Cursed "
+"One! ##male"
 
 #: fortify_dwarfenwall.xml
 msgid "You are better prepared to suffer the consequences, wretched creature."
-msgstr ""
+msgstr "You are better prepared to suffer the consequences, wretched creature."
 
 #: glove.xml:4
 msgid "leather gloves"
@@ -1537,9 +1539,8 @@ msgid "Ronny the Rat"
 msgstr "Ronny the Rat"
 
 #: joringsbridge.xml
-#, fuzzy
 msgid "Who is that?"
-msgstr "What is all this?"
+msgstr "Who is that?"
 
 #: joringsbridge_npc.xml:2
 msgid "Gertlinde Kampfer"
@@ -2836,9 +2837,8 @@ msgstr ""
 "third of incoming damage from elemental beings."
 
 #: rescue_willard.xml
-#, fuzzy
 msgid "Willard"
-msgstr "Willpower"
+msgstr "Willard"
 
 #: ring.xml:5
 msgid "bronze ring"
@@ -2890,7 +2890,7 @@ msgstr "council robe"
 
 #: sarkophagusMaylon.xml:29
 msgid " received an item from Maylons Grave."
-msgstr ""
+msgstr " received an item from Maylons Grave."
 
 #: shields.xml:5
 msgid "targe"
@@ -3258,12 +3258,13 @@ msgstr "region1"
 
 #: theFissure.xml
 msgid "Unknown Lich"
-msgstr ""
+msgstr "Unknown Lich"
 
 #: tutorial.xml
 msgid ""
 "I have to find an energy source and a cog before that thing will work again."
 msgstr ""
+"I have to find an energy source and a cog before that thing will work again."
 
 #: undeadEqu.xml:3
 msgid "broken shield"
