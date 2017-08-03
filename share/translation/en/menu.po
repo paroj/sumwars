@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-25 17:52+0200\n"
-"PO-Revision-Date: 2017-08-03 21:16+0000\n"
+"PO-Revision-Date: 2017-08-03 21:17+0000\n"
 "Last-Translator: monolifed <monolifed@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/sumwars/menu/en/>"
 "\n"
@@ -785,15 +785,15 @@ msgstr "Hunter magic"
 
 #: playerclasses.xml:270
 msgid "Marksmanship"
-msgstr ""
+msgstr "Marksmanship"
 
 #: playerclasses.xml:332
 msgid "Priest"
-msgstr ""
+msgstr "Priest"
 
 #: playerclasses.xml:371
 msgid "priest"
-msgstr ""
+msgstr "priest"
 
 #: playerclasses.xml:372
 msgid "priestess"
