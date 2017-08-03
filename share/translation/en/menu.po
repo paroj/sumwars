@@ -797,7 +797,7 @@ msgstr "priest"
 
 #: playerclasses.xml:372
 msgid "priestess"
-msgstr ""
+msgstr "priestess"
 
 #: playerclasses.xml:374
 msgid "Light Magic"
