@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-25 17:52+0200\n"
-"PO-Revision-Date: 2017-08-03 21:12+0000\n"
+"PO-Revision-Date: 2017-08-03 21:13+0000\n"
 "Last-Translator: monolifed <monolifed@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/sumwars/menu/en/>"
 "\n"
@@ -729,15 +729,15 @@ msgstr "warrior"
 
 #: playerclasses.xml:40
 msgid "fencer"
-msgstr ""
+msgstr "fencer"
 
 #: playerclasses.xml:42
 msgid "Fighting skills"
-msgstr ""
+msgstr "Fighting skills"
 
 #: playerclasses.xml:42
 msgid "Fighting spirit"
-msgstr ""
+msgstr "Fighting spirit"
 
 #: playerclasses.xml:42 playerclasses.xml:270
 msgid "Passive skills"
