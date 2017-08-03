@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2017-08-03 21:09+0000\n"
+"PO-Revision-Date: 2017-08-03 21:13+0000\n"
 "Last-Translator: monolifed <monolifed@gmail.com>\n"
 "Language-Team: English "
 "<https://hosted.weblate.org/projects/sumwars/tutorial/en/>\n"
@@ -1275,7 +1275,7 @@ msgstr ""
 
 #: tutorial.xml:1648
 msgid "I am still missing a cog."
-msgstr ""
+msgstr "I am still missing a cog."
 
 #: tutorial.xml:1650
 msgid "Now all I need is the energy source."
