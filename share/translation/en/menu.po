@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-25 17:52+0200\n"
-"PO-Revision-Date: 2017-08-03 21:14+0000\n"
+"PO-Revision-Date: 2017-08-03 21:15+0000\n"
 "Last-Translator: monolifed <monolifed@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/sumwars/menu/en/>"
 "\n"
@@ -753,23 +753,23 @@ msgstr "wizard"
 
 #: playerclasses.xml:153
 msgid "sorceress"
-msgstr ""
+msgstr "sorceress"
 
 #: playerclasses.xml:155
 msgid "Air magic"
-msgstr ""
+msgstr "Air magic"
 
 #: playerclasses.xml:155
 msgid "Fire magic"
-msgstr ""
+msgstr "Fire magic"
 
 #: playerclasses.xml:155
 msgid "Ice magic"
-msgstr ""
+msgstr "Ice magic"
 
 #: playerclasses.xml:227
 msgid "Archer"
-msgstr ""
+msgstr "Archer"
 
 #: playerclasses.xml:267
 msgid "ranger"
