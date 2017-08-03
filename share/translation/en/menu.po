@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-25 17:52+0200\n"
-"PO-Revision-Date: 2017-08-03 21:18+0000\n"
+"PO-Revision-Date: 2017-08-03 21:20+0000\n"
 "Last-Translator: monolifed <monolifed@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/sumwars/menu/en/>"
 "\n"
@@ -805,8 +805,8 @@ msgstr "Light Magic"
 
 #: playerclasses.xml:374
 msgid "Water Magic"
-msgstr ""
+msgstr "Water Magic"
 
 #: playerclasses.xml:374
 msgid "Wind Magic"
-msgstr ""
+msgstr "Wind Magic"
