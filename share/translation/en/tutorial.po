@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2017-08-03 20:56+0000\n"
+"PO-Revision-Date: 2017-08-03 21:09+0000\n"
 "Last-Translator: monolifed <monolifed@gmail.com>\n"
 "Language-Team: English "
 "<https://hosted.weblate.org/projects/sumwars/tutorial/en/>\n"
@@ -335,7 +335,7 @@ msgstr "The choice is yours."
 
 #: tutorial.xml:379 tutorial.xml:1316 tutorial.xml:1626
 msgid "elCnlLowerCaves"
-msgstr "elCnlLowerCaves"
+msgstr "Council of Elements, Underground Dungeon"
 
 #: tutorial.xml:399 tutorial.xml:841 tutorial.xml:1111 tutorial.xml:1806
 msgid "Derred"
