@@ -741,7 +741,7 @@ msgstr "Fighting spirit"
 
 #: playerclasses.xml:42 playerclasses.xml:270
 msgid "Passive skills"
-msgstr ""
+msgstr "Passive skills"
 
 #: playerclasses.xml:112
 msgid "Magician"
