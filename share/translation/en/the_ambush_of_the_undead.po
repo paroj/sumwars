@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2012-03-02 16:19+0100\n"
-"Last-Translator:  <kalimgard@users.sourceforge.net>\n"
-"Language-Team: English\n"
+"PO-Revision-Date: 2017-08-03 21:09+0000\n"
+"Last-Translator: monolifed <monolifed@gmail.com>\n"
+"Language-Team: English "
+"<https://hosted.weblate.org/projects/sumwars/the_ambush_of_the_undead/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.16-dev\n"
 
 #: theFissure.xml:2
 msgid "The ambush of the undead"
@@ -43,7 +45,7 @@ msgstr ""
 
 #: theFissure.xml:14
 msgid "aisMounPath"
-msgstr "aisMounPath"
+msgstr "Mountain Path"
 
 #: theFissure.xml:122
 msgid "*urgh*"
@@ -289,7 +291,7 @@ msgstr "I hope we meet again soon."
 
 #: theFissure.xml:446
 msgid "greyCurseCaveFis"
-msgstr "greyCurseCaveFis"
+msgstr "The Fissure"
 
 #: theFissure.xml:502
 msgid "Unknown Lich"
@@ -616,4 +618,4 @@ msgstr "But business is business."
 
 #: theFissure.xml:921
 msgid "greyCurseCaveDep"
-msgstr "greyCurseCaveDep"
+msgstr "Cursed Caves, Depth"
