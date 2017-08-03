@@ -1279,7 +1279,7 @@ msgstr "I am still missing a cog."
 
 #: tutorial.xml:1650
 msgid "Now all I need is the energy source."
-msgstr ""
+msgstr "Now all I need is the energy source."
 
 #: tutorial.xml:1652
 msgid ""
