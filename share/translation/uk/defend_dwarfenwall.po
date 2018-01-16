@@ -7,14 +7,17 @@ msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2011-09-08 22:09+0200\n"
-"Last-Translator: Igor Paliychuk <mansonigor@gmail.com>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2018-01-17 12:22+0000\n"
+"Last-Translator: Юрій Пуцан <putsan57@gmail.com>\n"
+"Language-Team: Ukrainian "
+"<https://hosted.weblate.org/projects/sumwars/defend_dwarfenwall/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.19-dev\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: Ukrainian\n"
 "X-Poedit-Country: UKRAINE\n"
@@ -34,7 +37,7 @@ msgstr "Опис квесту"
 #: siegeOfDwarfenwall.xml:10 siegeOfDwarfenwall.xml:253
 #: siegeOfDwarfenwall.xml:2425
 msgid "dwarfenwall"
-msgstr "укріплення гномів"
+msgstr "дорфенваль"
 
 #: siegeOfDwarfenwall.xml:35 siegeOfDwarfenwall.xml:2306
 msgid "dwarfenwallCommand"
@@ -733,7 +736,7 @@ msgstr "Я ніколи не бачив когось, хто б так бивс�
 
 #: siegeOfDwarfenwall.xml:2267
 msgid "Indeed."
-msgstr "Дійсно."
+msgstr "Напевно."
 
 #: siegeOfDwarfenwall.xml:2269 siegeOfDwarfenwall.xml:2271
 msgid "Without your 'friend' this would look different."
@@ -1028,7 +1031,7 @@ msgstr "І щодо кристалу: Чому ви не запитаєте ва
 
 #: siegeOfDwarfenwall.xml:2539
 msgid "I thought so."
-msgstr "Я так і думав."
+msgstr "Я так думав."
 
 #: siegeOfDwarfenwall.xml:2540
 msgid "The elementalists are not exactly talkative, am I right?"
