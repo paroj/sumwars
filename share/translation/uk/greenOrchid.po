@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2015-02-23 11:31+0200\n"
-"Last-Translator: Michal Čihař <michal@cihar.com>\n"
+"PO-Revision-Date: 2018-01-17 12:22+0000\n"
+"Last-Translator: Юрій Пуцан <putsan57@gmail.com>\n"
 "Language-Team: Ukrainian "
 "<https://hosted.weblate.org/projects/sumwars/greenorchid/uk/>\n"
 "Language: uk\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.3-dev\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #: greenOrchid.xml:2
 msgid "The Green Orchid"
@@ -41,7 +41,7 @@ msgstr ""
 
 #: greenOrchid.xml:16
 msgid "joringsbridge"
-msgstr ""
+msgstr "джорінгсбрідж"
 
 #: greenOrchid.xml:25
 msgid "Reba"
@@ -179,7 +179,7 @@ msgstr ""
 
 #: greenOrchid.xml:106
 msgid "dwarfenwall"
-msgstr ""
+msgstr "дорфенваль"
 
 #: greenOrchid.xml:115
 msgid "Eric"
