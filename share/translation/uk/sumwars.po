@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2017-03-19 13:15+0000\n"
-"Last-Translator: Володимир <bardvv@gmail.com>\n"
+"PO-Revision-Date: 2018-01-17 12:23+0000\n"
+"Last-Translator: Юрій Пуцан <putsan57@gmail.com>\n"
 "Language-Team: Ukrainian "
 "<https://hosted.weblate.org/projects/sumwars/sumwars/uk/>\n"
 "Language: uk\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.12\n"
+"X-Generator: Weblate 2.19-dev\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: Ukrainian\n"
 "X-Poedit-Country: UKRAINE\n"
@@ -60,7 +60,7 @@ msgstr "Широке пустище"
 
 #: aisen.xml:386
 msgid "joringsbridge"
-msgstr "Джорінгсбрідж"
+msgstr "джорінгсбрідж"
 
 #: aisen.xml:453
 msgid "aisNorthMeadow"
@@ -1035,7 +1035,7 @@ msgstr "Некромант зі шрамом на лиці"
 
 #: dwarfenwall.xml:6
 msgid "dwarfenwall"
-msgstr "Дорфенваль"
+msgstr "дорфенваль"
 
 #: dwarfenwall.xml:250
 msgid "dwarfenwallCommand"
@@ -2074,7 +2074,7 @@ msgstr ""
 
 #: medair.xml:4
 msgid "elCnlLobby"
-msgstr "Рада Елементів, Підземелля"
+msgstr "elCnlLobby"
 
 #: medair.xml:37 tutorial.xml
 msgid "elCnlLowerCaves"
@@ -2085,8 +2085,9 @@ msgid "medBackalley"
 msgstr "Закутки"
 
 #: medair.xml:119
+#, fuzzy
 msgid "medMercCamp"
-msgstr "Табір Найманців Медайру"
+msgstr "medMercCamp"
 
 #: medairnpc.xml:2
 msgid "Robert"
