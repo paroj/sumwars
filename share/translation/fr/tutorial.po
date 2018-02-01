@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2015-03-10 23:40+0200\n"
-"Last-Translator: Tuux <tuxa@galaxie.eu.org>\n"
+"PO-Revision-Date: 2018-02-02 11:36+0000\n"
+"Last-Translator: Letiteuf55 <arthur.lemoine@me.com>\n"
 "Language-Team: French "
 "<https://hosted.weblate.org/projects/sumwars/tutorial/fr/>\n"
 "Language: fr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.3-dev\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #: tutorial.xml:1845
 msgid "'course. Send the Branded One first.##female"
@@ -1163,9 +1163,8 @@ msgid "There should be workers down there."
 msgstr "Il doit y avoir des ouvriers là en bas."
 
 #: tutorial.xml:786
-#, fuzzy
 msgid "There's a back door for feeding, and word is..."
-msgstr "Il y a une porte arrière pour la nourriture, et le mot est…"
+msgstr "Il y a une porte à l'arrière pour la nourriture, et le mot est…"
 
 #: tutorial.xml:1434
 msgid "There's only one way down here?!"
