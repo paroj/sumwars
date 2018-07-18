@@ -1,60 +1,81 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2012-03-03 17:03+0100\n"
-"Last-Translator:  <kalimgard@users.sourceforge.net>\n"
-"Language-Team: Portuguese\n"
+"PO-Revision-Date: 2018-07-19 20:41+0000\n"
+"Last-Translator: ronybezerra <ronybezerra@gmail.com>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/sumwars/"
+"greenorchid/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.1-dev\n"
 
 #: greenOrchid.xml:2
+#, fuzzy
 msgid "The Green Orchid"
-msgstr ""
+msgstr "A Orquídea Verde"
 
 #: greenOrchid.xml:6
+#, fuzzy
 msgid ""
 "I found the green orchid and gave it to the girl. She gave me a amulet "
 "instead. I'm still trying to recover from the shock that I actually got "
 "something useful out of this ordeal."
 msgstr ""
+"Eu encontrei a orquídea verde e dei para a garota. Ela me deu um amuleto. "
+"Ainda estou tentando me recuperar do choque de que eu realmente consegui "
+"algo útil fora desta provação."
 
 #: greenOrchid.xml:10
+#, fuzzy
 msgid ""
 "I'm still looking for the green orchid. I had no luck in Dwarfenwall, but I "
 "got rid of the silly hat. Now I'm stuck with some scholar scroll. Which is "
 "astoundingly boring. I almost fell into a coma after the first three "
 "sentences."
 msgstr ""
+"Ainda procuro a orquídea verde. Eu não tive sorte em Dwarfenwall, mas eu me "
+"livrei do chapéu bobo. Agora estou preso com um pergaminho. O que é "
+"incrivelmente chato. Eu quase entro em coma após as três primeiras sentenças."
 
 #: greenOrchid.xml:12
+#, fuzzy
 msgid ""
 "I offered help to a young girl in Joringsbridge by looking for a green "
 "orchid. She gave me a useless hat for it. And by useless I mean useless. No "
 "way in hell I will ever wear that. Gee, thanks."
 msgstr ""
+"Eu ofereci ajuda para uma jovem garota em Joringsbridge procurando por uma "
+"orquídea verde. Ela me deu um chapéu inútil por isso. E por inútil quero "
+"dizer inútil. Sem chance nem no inferno usarei isso. Puxa, obrigado."
 
 #: greenOrchid.xml:16
+#, fuzzy
 msgid "joringsbridge"
-msgstr ""
+msgstr "joringsbridge"
 
 #: greenOrchid.xml:25
+#, fuzzy
 msgid "Reba"
-msgstr ""
+msgstr "Reba"
 
 #: greenOrchid.xml:26
 msgid "Nice Flowers"
-msgstr ""
+msgstr "Belas flores"
 
 #: greenOrchid.xml:30
+#, fuzzy
 msgid "I'm still looking for a green orchid to perfect my flowerbed."
 msgstr ""
+"Ainda estou à procura de uma orquídea verde para tornar perfeito meu "
+"canteiro de flores."
 
 #: greenOrchid.xml:31
+#, fuzzy
 msgid "Say, perhaps you can look for it on your travels?"
-msgstr ""
+msgstr "Bem, talvez você possa procurar por ela em suas viagens?"
 
 #: greenOrchid.xml:32
 msgid "Look for the green orchid?"
@@ -62,15 +83,15 @@ msgstr ""
 
 #: greenOrchid.xml:33 greenOrchid.xml:40
 msgid "Yes"
-msgstr ""
+msgstr "Sim"
 
 #: greenOrchid.xml:34 greenOrchid.xml:41
 msgid "No"
-msgstr ""
+msgstr "Não"
 
 #: greenOrchid.xml:36
 msgid "Hey there, traveller."
-msgstr ""
+msgstr "Ei, viajante."
 
 #: greenOrchid.xml:37
 msgid "Do you like my beautiful flowerbed?"
@@ -82,55 +103,57 @@ msgstr ""
 
 #: greenOrchid.xml:39
 msgid "Offer Help?"
-msgstr ""
+msgstr "Oferecer ajuda?"
 
 #: greenOrchid.xml:43 greenOrchid.xml:46
 msgid "Oh, I remember you. Did you find the green orchid?"
-msgstr ""
+msgstr "Ah, lembro-me de você. Encontrou a orquídea verde?"
 
 #: greenOrchid.xml:47
 msgid "Nah, I'm still searching, sorry."
-msgstr ""
+msgstr "Não, ainda estou procurando, desculpe."
 
 #: greenOrchid.xml:54
 msgid "Hm, I somehow like you."
-msgstr ""
+msgstr "Hm, eu de alguma forma gosto de você."
 
 #: greenOrchid.xml:55
+#, fuzzy
 msgid "I'll look around."
-msgstr ""
+msgstr "Eu vou olhar por aí."
 
 #: greenOrchid.xml:56
 msgid "If I find one, I'll give it to you."
-msgstr ""
+msgstr "Se eu encontrar uma, eu vou dar para você."
 
 #: greenOrchid.xml:57
 msgid "Wow, thanks!"
-msgstr ""
+msgstr "Uau, muito obrigado!"
 
 #: greenOrchid.xml:58
 msgid "You are so nice to me."
-msgstr ""
+msgstr "Você é tão bom para mim."
 
 #: greenOrchid.xml:59
 msgid "Here take this hat as a compensation."
-msgstr ""
+msgstr "Aqui tome esse chapéu, como recompensa."
 
 #: greenOrchid.xml:60
+#, fuzzy
 msgid "No problem, girl, but this is really not necessary."
-msgstr ""
+msgstr "Não há problema, garota, mas isso realmente não é necessário."
 
 #: greenOrchid.xml:61
 msgid "I insist. I don't expect you to work for free."
-msgstr ""
+msgstr "Eu insisto. Eu não espero que você trabalhe de graça."
 
 #: greenOrchid.xml:62
 msgid "(Not exactly what I meant, but oh well.)"
-msgstr ""
+msgstr "(Não exatamente o que eu quis dizer, mas tudo bem.)"
 
 #: greenOrchid.xml:63
 msgid "(It's just a stupid hat. No harm done.)"
-msgstr ""
+msgstr "(É só um chapéu estúpido. Nenhum dano feito.)"
 
 #: greenOrchid.xml:71
 msgid "Do I look like I care for flowers?"
