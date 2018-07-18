@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2011-04-07 21:09+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Portuguese\n"
+"PO-Revision-Date: 2018-07-19 20:41+0000\n"
+"Last-Translator: ronybezerra <ronybezerra@gmail.com>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/sumwars/"
+"rescue_willard/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.1-dev\n"
 
 #: rescue_willard.xml:2
 msgid "A friend in need"
@@ -73,11 +75,11 @@ msgstr ""
 
 #: rescue_willard.xml:75 rescue_willard.xml:133
 msgid "Yes"
-msgstr ""
+msgstr "Sim"
 
 #: rescue_willard.xml:76 rescue_willard.xml:134
 msgid "No"
-msgstr ""
+msgstr "Não"
 
 #: rescue_willard.xml:80 rescue_willard.xml:82
 msgid "If I'm not mistaken you are a Branded One."
