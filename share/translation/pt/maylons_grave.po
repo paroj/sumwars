@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2011-04-07 21:09+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Portuguese\n"
+"PO-Revision-Date: 2018-07-19 20:41+0000\n"
+"Last-Translator: ronybezerra <ronybezerra@gmail.com>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/sumwars/"
+"maylons_grave/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.1-dev\n"
 
 #: maylons_grave.xml:2
 msgid "Maylons Grave"
@@ -56,11 +58,11 @@ msgstr ""
 
 #: maylons_grave.xml:160
 msgid "Yes"
-msgstr ""
+msgstr "Sim"
 
 #: maylons_grave.xml:161
 msgid "No"
-msgstr ""
+msgstr "Não"
 
 #: maylons_grave.xml:167
 msgid "Gab Resh"
