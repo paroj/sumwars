@@ -3,20 +3,21 @@
 # This file is distributed under the same license as the PACKAGE package
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-25 17:52+0200\n"
-"PO-Revision-Date: 2011-04-07 21:09+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Portuguese\n"
+"PO-Revision-Date: 2018-07-19 20:41+0000\n"
+"Last-Translator: ronybezerra <ronybezerra@gmail.com>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/sumwars/menu/"
+"pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.1-dev\n"
 
 #: ../../src/core/damage.cpp:159 ../../src/gui/charinfo.cpp:735
 msgid "Physical"
@@ -449,11 +450,11 @@ msgstr ""
 
 #: ../../src/gui/mainmenu.cpp:844
 msgid "Yes"
-msgstr ""
+msgstr "Sim"
 
 #: ../../src/gui/mainmenu.cpp:846
 msgid "No"
-msgstr ""
+msgstr "Não"
 
 #: ../../src/gui/messageboxes.cpp:56 ../../src/gui/messageboxes.cpp:197
 #: ../../src/gui/messageboxes.cpp:249 ../../src/gui/networkwindows.cpp:123
