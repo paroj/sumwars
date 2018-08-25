@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2018-08-07 14:56+0000\n"
-"Last-Translator: Tiago A. Reul <tiago@reul.space>\n"
+"PO-Revision-Date: 2018-08-25 23:58+0000\n"
+"Last-Translator: Ricardo Fonseca <ricardo.jfonseca@outlook.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/sumwars/scout/"
 "pt/>\n"
 "Language: pt\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: scout.xml:2
 msgid "The wounded scout"
-msgstr ""
+msgstr "O batedor ferido"
 
 #: scout.xml:5
 msgid ""
