@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2015-03-10 17:32+0200\n"
-"Last-Translator: M for Momo <mo@rtnp.org>\n"
-"Language-Team: French "
-"<https://hosted.weblate.org/projects/sumwars/the_trader/fr/>\n"
+"PO-Revision-Date: 2019-04-14 13:05+0000\n"
+"Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/sumwars/"
+"the_trader/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.3-dev\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #: theTrader.xml:199
 msgid ""
@@ -79,84 +79,93 @@ msgid ""
 "At the bottom you have the small items tab, click on it to access the three "
 "rows of your small items inventory."
 msgstr ""
+"En bas, vous avez l'onglet des petits objets, cliquez dessus pour accéder "
+"aux trois lignes de votre inventaire de petits objets."
 
 #: theTrader.xml:145
 msgid "Be wary, it is not as safe around Medair as it used to be."
-msgstr ""
+msgstr "Méfiez-vous, ce n'est plus aussi sûr qu'avant avec Medair."
 
 #: theTrader.xml:155
 msgid "But I can supply you with scrolls for a long time. That's a promise."
 msgstr ""
+"Mais je peux vous fournir des parchemins pour longtemps. C'est une promesse."
 
 #: theTrader.xml:137
 msgid "Clearly you are in the wrong line of work."
-msgstr ""
+msgstr "Il est clair que vous êtes dans la mauvaise ligne de travail."
 
 #: theTrader.xml:134
 msgid ""
 "Click on one of these symbols, and your body will rematerialize at your "
 "destination, as fast as the wind."
 msgstr ""
+"Cliquez sur l'un de ces symboles et votre corps se rematérialisera à votre "
+"destination, aussi vite que le vent."
 
 #: theTrader.xml:100
 msgid "Didn't you hear the capital letters?"
-msgstr ""
+msgstr "Tu n'as pas entendu les majuscules ?"
 
 #: theTrader.xml:146
 msgid ""
 "Even travelling the roads may prove to be dangerous. Particularly if you are "
 "heading north."
 msgstr ""
+"Même la circulation sur les routes peut s'avérer dangereuse. Surtout si vous "
+"allez vers le nord."
 
 #: theTrader.xml:179
 msgid "Explain the belt?"
-msgstr ""
+msgstr "Expliquer la ceinture ?"
 
 #: theTrader.xml:117
 msgid "Explain the waypoint system?"
-msgstr ""
+msgstr "Expliquer le système de repères de balisage ?"
 
 #: theTrader.xml:128
 msgid "Fear not, they will not harm you in any way, honest."
-msgstr ""
+msgstr "Ne craignez rien, ils ne vous feront aucun mal, honnêtement."
 
 #: theTrader.xml:116
 msgid ""
 "Furthermore, a scroll's power is depleted quickly and limited only to one "
 "person."
 msgstr ""
+"De plus, la puissance d'un parchemin est rapidement épuisée et limitée à une "
+"seule personne."
 
 #: theTrader.xml:148
 msgid "Goblins and other beasts have stolen quite a lot recently."
-msgstr ""
+msgstr "Les gobelins et autres bêtes ont volé pas mal de choses récemment."
 
 #: theTrader.xml:162
 msgid "Grace me with your presence again soon, if you please."
-msgstr ""
+msgstr "Faites-moi grâce de votre présence bientôt, s'il vous plaît."
 
 #: theTrader.xml:135
 msgid "Hmm. You seem to know a great deal about this, for a trader."
-msgstr ""
+msgstr "Hmm. Vous semblez en savoir beaucoup à ce sujet, pour un commerçant."
 
 #: theTrader.xml:172
 msgid "How about: \"town portal\"?"
-msgstr ""
+msgstr "Que diriez-vous de : « Portail de la ville » ?"
 
 #: theTrader.xml:307
 msgid "How nice to see you have escaped from the caves."
-msgstr ""
+msgstr "Quel plaisir de voir que vous avez échappé aux grottes."
 
 #: theTrader.xml:106
 msgid "I see you are a man of reason!"
-msgstr ""
+msgstr "Je vois que vous êtes un homme de raison !"
 
 #: theTrader.xml:108
 msgid "I see you are a woman of reason!"
-msgstr ""
+msgstr "Je vois que vous êtes une femme de raison !"
 
 #: theTrader.xml:301
 msgid "I see you have reached dwarfenwall safely."
-msgstr ""
+msgstr "Je vois que vous avez atteint le mur nain en toute sécurité."
 
 #: theTrader.xml:189
 msgid "I thought so."
@@ -167,38 +176,49 @@ msgid ""
 "I'm afraid I have insufficient gold to buy assorted wares from treasure "
 "hunters and scavengers."
 msgstr ""
+"J'ai peur de ne pas avoir assez d'or pour acheter des articles assortis aux "
+"chasseurs de trésors et aux charognards."
 
 #: theTrader.xml:194
 msgid "I'm sure you noticed, right?"
-msgstr ""
+msgstr "Je suis sûr que vous l'avez remarqué, n'est-ce pas ?"
 
 #: theTrader.xml:130
 msgid ""
 "If you click on a road shrine, your body will be transported through Harad's "
 "domain."
 msgstr ""
+"Si vous cliquez sur un sanctuaire routier, votre corps sera transporté à "
+"travers le domaine de Harad."
 
 #: theTrader.xml:133
 msgid ""
 "If you have an open portal in the world, that will be shown too, with a red "
 "dot."
 msgstr ""
+"Si vous avez un portail ouvert dans le monde, il sera également affiché, "
+"avec un point rouge."
 
 #: theTrader.xml:193
 msgid "If you place a potion there, it appears in the belt row."
 msgstr ""
+"Si vous y placez une potion, elle apparaît dans la ligne de la ceinture."
 
 #: theTrader.xml:204
 msgid ""
 "If you want to use a potion you can do so by clicking on it with the right "
 "mouse button in the inventory or the belt."
 msgstr ""
+"Si vous voulez utiliser une potion, vous pouvez le faire en cliquant dessus "
+"avec le bouton droit de la souris dans l'inventaire ou dans la ceinture."
 
 #: theTrader.xml:131
 msgid ""
 "In your mind's eye you will see a map with all the waypoints you have "
 "already visited."
 msgstr ""
+"Dans l'œil de votre esprit, vous verrez une carte avec tous les points que "
+"vous avez déjà visité."
 
 #: theTrader.xml:95 theTrader.xml:195
 msgid "Indeed."
