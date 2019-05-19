@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-25 18:38+0200\n"
-"PO-Revision-Date: 2019-05-19 19:59+0000\n"
-"Last-Translator: Stefan <nxxs@inbox.com>\n"
+"PO-Revision-Date: 2019-05-20 20:49+0000\n"
+"Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/sumwars/menu/de/>"
 "\n"
 "Language: de\n"
@@ -253,7 +253,7 @@ msgstr "Ausweichen"
 
 #: ../../src/gui/charinfo.cpp:398
 msgid "Chance to get hit by "
-msgstr "Chance getroffen zu werden"
+msgstr "Chance getroffen zu werden von "
 
 #: ../../src/gui/charinfo.cpp:489
 msgid "Damage dealt to  "
@@ -282,13 +282,14 @@ msgstr "Level"
 #: ../../src/gui/charinfo.cpp:682
 msgid "Strength increases hitpoints, melee damage and attack power."
 msgstr ""
-"Stärke erhöht die Lebenspunkte, den Nahkampfschaden und die Durchschlagskraft"
+"Stärke erhöht die Lebenspunkte, den Nahkampfschaden und die "
+"Durchschlagskraft."
 
 #: ../../src/gui/charinfo.cpp:686
 msgid "Dexterity increases ranged damage, attack accuracy and attack speed"
 msgstr ""
 "Geschick erhöht den Fernkampfschaden, die Angriffsgenauigkeit und die "
-"Angriffsgeschwindigkeit."
+"Angriffsgeschwindigkeit"
 
 #: ../../src/gui/charinfo.cpp:690
 msgid ""
@@ -313,7 +314,7 @@ msgstr "Erfahrung"
 #: ../../src/gui/charinfo.cpp:698
 msgid "Current experience and experience necessary for next level-up."
 msgstr ""
-"Aktuelle Erfahrung und für das nächste Level-up erforderliche Erfahrung"
+"Aktuelle Erfahrung und für das nächste Level-up erforderliche Erfahrung."
 
 #: ../../src/gui/charinfo.cpp:701 ../../src/gui/controlpanel.cpp:209
 msgid "Hitpoints"
@@ -334,11 +335,11 @@ msgstr "Angriffe/s"
 
 #: ../../src/gui/charinfo.cpp:712
 msgid "Number of attacks per second."
-msgstr "Anzahl Angriffe pro Sekunde"
+msgstr "Anzahl Angriffe pro Sekunde."
 
 #: ../../src/gui/charinfo.cpp:717
 msgid "Weapon Range in meters."
-msgstr "Waffenreichweite in Metern"
+msgstr "Waffenreichweite in Metern."
 
 #: ../../src/gui/charinfo.cpp:722
 msgid "Attack power influences the damage dealt to armored enemies."
@@ -353,7 +354,7 @@ msgid ""
 "Block value determines the chance to avoid damage from physical attacks."
 msgstr ""
 "Der Blockwert bestimmt die Wahrscheinlichkeit, physischen Schaden zu "
-"vermeiden"
+"vermeiden."
 
 #: ../../src/gui/controlpanel.cpp:435 ../../src/gui/mainmenu.cpp:170
 #: ../../src/gui/mainmenu.cpp:207 ../../src/gui/optionswindow.cpp:461
@@ -394,7 +395,7 @@ msgstr "Quests"
 
 #: ../../src/gui/inventory.cpp:472
 msgid "Drop:"
-msgstr "Drop:"
+msgstr "Fallen lassen:"
 
 #: ../../src/gui/inventory.cpp:489
 msgid "Small"
@@ -446,7 +447,7 @@ msgstr "Spiel erstellen"
 
 #: ../../src/gui/mainmenu.cpp:167 ../../src/gui/mainmenu.cpp:200
 msgid "Credits"
-msgstr "Credits"
+msgstr "Mitwirkende"
 
 #: ../../src/gui/mainmenu.cpp:173 ../../src/gui/mainmenu.cpp:214
 msgid "Quit"
@@ -477,11 +478,11 @@ msgstr "Abbrechen"
 
 #: ../../src/gui/messageboxes.cpp:64 ../../src/gui/messageboxes.cpp:71
 msgid "Save and Exit?"
-msgstr "Speichern & Ende"
+msgstr "Speichern & Ende?"
 
 #: ../../src/gui/networkwindows.cpp:135 ../../src/gui/networkwindows.cpp:140
 msgid "Host_game"
-msgstr "Spiel hosten"
+msgstr "Spiel _hosten"
 
 #: ../../src/gui/networkwindows.cpp:144
 msgid "Max. number of players"
@@ -492,9 +493,8 @@ msgid "Port"
 msgstr "Port"
 
 #: ../../src/gui/networkwindows.cpp:302 ../../src/gui/networkwindows.cpp:307
-#, fuzzy
 msgid "Join_game"
-msgstr "Spiel beitreten"
+msgstr "Spiel _beitreten"
 
 #: ../../src/gui/networkwindows.cpp:311
 msgid "Host"
@@ -554,7 +554,7 @@ msgstr "Orange"
 
 #: ../../src/gui/optionswindow.cpp:162
 msgid "Pink"
-msgstr "Pink"
+msgstr "Rosa"
 
 #: ../../src/gui/optionswindow.cpp:163
 msgid "Purple"
@@ -585,9 +585,8 @@ msgid " - recommended"
 msgstr " - empfohlen"
 
 #: ../../src/gui/optionswindow.cpp:338
-#, fuzzy
 msgid "Off"
-msgstr "Angriff"
+msgstr "Aus"
 
 #: ../../src/gui/optionswindow.cpp:339
 msgid "Simple (Higher quality)"
@@ -607,7 +606,7 @@ msgstr "Simuliert (Experimentell 2)"
 
 #: ../../src/gui/optionswindow.cpp:448
 msgid "Shortkeys"
-msgstr "Shortkeys"
+msgstr "Tastenkombinationen"
 
 #: ../../src/gui/optionswindow.cpp:450
 msgid "Gameplay"
@@ -659,7 +658,7 @@ msgstr "Textgeschwindigkeit"
 
 #: ../../src/gui/optionswindow.cpp:506
 msgid "Sound"
-msgstr "Sound"
+msgstr "Ton"
 
 #: ../../src/gui/optionswindow.cpp:509
 msgid "Music"
