@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2015-01-05 05:29+0200\n"
-"Last-Translator: Niemand Jedermann <predatorix@web.de>\n"
-"Language-Team: German "
-"<https://hosted.weblate.org/projects/sumwars/greenorchid/de/>\n"
+"PO-Revision-Date: 2019-05-20 20:49+0000\n"
+"Last-Translator: ssantos <ssantos@web.de>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/sumwars/"
+"greenorchid/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.2-dev\n"
+"X-Generator: Weblate 3.7-dev\n"
 
 #: greenOrchid.xml:2
 msgid "The Green Orchid"
@@ -280,7 +280,7 @@ msgstr "Thomas"
 
 #: greenOrchid.xml:157
 msgid "You look like a scholar"
-msgstr "Du siehst wie ein Gelehrter aus."
+msgstr "Du siehst wie ein Gelehrter aus"
 
 #: greenOrchid.xml:166
 msgid "Hey, you look like a scholar."
@@ -298,7 +298,7 @@ msgstr ""
 
 #: greenOrchid.xml:169
 msgid "Avaera's mercy! This is..."
-msgstr ""
+msgstr "Avaeras Gnade! Das ist....."
 
 #: greenOrchid.xml:170
 msgid "No, this can't be real."
