@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-25 17:52+0200\n"
-"PO-Revision-Date: 2014-11-14 16:31+0200\n"
-"Last-Translator: Michal Čihař <michal@cihar.com>\n"
+"PO-Revision-Date: 2019-05-20 20:49+0000\n"
+"Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/sumwars/tools/de/>"
 "\n"
 "Language: de\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.1-dev\n"
+"X-Generator: Weblate 3.7-dev\n"
 
 #: ../../src/gui/contenteditor/contenteditor.cpp:205
 msgid "Render Info"
@@ -33,7 +33,7 @@ msgstr "Hauptmesh auswählen:"
 
 #: ../../src/gui/contenteditor/contenteditor.cpp:214
 msgid "Submeshes"
-msgstr "Submeshes"
+msgstr "Teilnetze"
 
 #: ../../src/gui/contenteditor/contenteditor.cpp:217
 msgid "Add Submesh"
@@ -198,7 +198,7 @@ msgstr "max:"
 
 #: ../../src/gui/contenteditor/contenteditor.cpp:349
 msgid "Equip"
-msgstr ""
+msgstr "Ausrüsten"
 
 #: ../../src/gui/contenteditor/contenteditor.cpp:352
 #: ../../src/gui/contenteditor/contenteditor.cpp:466
@@ -284,14 +284,14 @@ msgstr "Schaden:"
 #: ../../src/gui/contenteditor/contenteditor.cpp:430
 #: ../../src/gui/contenteditor/contenteditor.cpp:439
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: ../../src/gui/contenteditor/contenteditor.cpp:415
 #: ../../src/gui/contenteditor/contenteditor.cpp:424
 #: ../../src/gui/contenteditor/contenteditor.cpp:433
 #: ../../src/gui/contenteditor/contenteditor.cpp:442
 msgid "x"
-msgstr ""
+msgstr "x"
 
 #: ../../src/gui/contenteditor/contenteditor.cpp:451
 msgid "Range:"
