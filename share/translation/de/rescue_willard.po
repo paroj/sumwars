@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2015-01-05 07:27+0200\n"
-"Last-Translator: Niemand Jedermann <predatorix@web.de>\n"
-"Language-Team: German "
-"<https://hosted.weblate.org/projects/sumwars/rescue_willard/de/>\n"
+"PO-Revision-Date: 2019-05-20 20:49+0000\n"
+"Last-Translator: ssantos <ssantos@web.de>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/sumwars/"
+"rescue_willard/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.2-dev\n"
+"X-Generator: Weblate 3.7-dev\n"
 
 #: rescue_willard.xml:2
 msgid "A friend in need"
@@ -167,9 +167,8 @@ msgid "My apologies. It was a slip of the tongue."
 msgstr "Verzeihung. Das ist mir so rausgerutscht."
 
 #: rescue_willard.xml:105
-#, fuzzy
 msgid "So, what is it that you want?"
-msgstr "Wie auch immer. Was wollt Ihr wirklich?"
+msgstr "Also, was wollt Ihr wirklich?"
 
 #: rescue_willard.xml:106
 msgid "Thank you. My name is Fenor Marken."
@@ -193,11 +192,11 @@ msgstr "Und diese Feiglinge haben ihn zurückgelassen!"
 
 #: rescue_willard.xml:111
 msgid "Surely you don't want me to bring back his corpse, do you?"
-msgstr "Sicher wollt Ihr nicht, dass ich seine Leiche zurück bringe."
+msgstr "Sicher wollt Ihr nicht, dass ich seine Leiche zurück bringe, oder?"
 
 #: rescue_willard.xml:113
 msgid "Surely you don't want us to bring back his corpse, do you?"
-msgstr "Sicher wollt Ihr nicht, dass wir seine Leiche zurück bringe."
+msgstr "Sicher wollt Ihr nicht, dass wir seine Leiche zurückbringen, oder?"
 
 #: rescue_willard.xml:115
 msgid "No, Willard isn't someone likely to be caught by a few lousy goblins."
