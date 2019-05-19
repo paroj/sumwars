@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2015-06-04 12:14+0200\n"
-"Last-Translator: chrysn   <chrysn@fsfe.org>\n"
-"Language-Team: German "
-"<https://hosted.weblate.org/projects/sumwars/fortify_dwarfenwall/de/>\n"
+"PO-Revision-Date: 2019-05-20 20:49+0000\n"
+"Last-Translator: ssantos <ssantos@web.de>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/sumwars/"
+"fortify_dwarfenwall/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.4-dev\n"
+"X-Generator: Weblate 3.7-dev\n"
 
 #: fortify_dwarfenwall.xml:2
 msgid "Fortify Dwarfenwall"
@@ -153,7 +153,7 @@ msgstr ""
 msgid ""
 "You're putting in so much effort, and everything you get is \"difficult\""
 msgstr ""
-"Da gibst du dir solche Mühe und alles was dabei raus kommt ist \"schwierig\"."
+"Da gibst du dir solche Mühe und alles was dabei raus kommt ist \"schwierig\""
 
 #: fortify_dwarfenwall.xml:345
 msgid "Tsk. I feel like burning off the whole place."
@@ -165,7 +165,7 @@ msgstr "Ich hätte große Lust den Laden abzufackeln."
 
 #: fortify_dwarfenwall.xml:351
 msgid "With all those wimps here it's hardly worth the effort, isn't it?"
-msgstr "Bei den ganzen Waschlappen hier ist das doch kaum der Mühe wert."
+msgstr "Bei den ganzen Waschlappen hier ist das doch kaum der Mühe wert, oder?"
 
 #: fortify_dwarfenwall.xml:353
 msgid "Then again..."
@@ -319,11 +319,11 @@ msgstr "Ihr seid in der Tat ein Haufen schwieriger Gestalten."
 
 #: fortify_dwarfenwall.xml:409
 msgid "You are indeed difficult."
-msgstr "Ihr seid in der Tat eine schwierige Gestalt"
+msgstr "Ihr seid in der Tat schwierig."
 
 #: fortify_dwarfenwall.xml:411
 msgid "He's beginning to make me angry."
-msgstr "Langsam macht er mich wütend"
+msgstr "Langsam macht er mich wütend."
 
 #: fortify_dwarfenwall.xml:413
 msgid "Peace!"
@@ -496,7 +496,7 @@ msgstr "Nehmt etwas Gold und diesen Kristall."
 
 #: fortify_dwarfenwall.xml:485
 msgid "I will send you orders with it when the time comes."
-msgstr "Darüber werde ich euch zur rechten Zeit weitere Instruktionen senden. "
+msgstr "Darüber werde ich euch zur rechten Zeit weitere Anweisungen senden."
 
 #: fortify_dwarfenwall.xml:614
 msgid "There you go! That was rather tame."
@@ -613,7 +613,7 @@ msgstr "Und gewöhn dich besser daran, überwacht zu werden."
 
 #: fortify_dwarfenwall.xml:705
 msgid "I'm no idiot."
-msgstr "Ich bin kein Idiot"
+msgstr "Ich bin kein Idiot."
 
 #: fortify_dwarfenwall.xml:707
 msgid "But you're not omniscient, too."
@@ -658,7 +658,7 @@ msgstr "Hüte deine Zunge, Abschaum! Was bitte soll das ändern?"
 
 #: fortify_dwarfenwall.xml:715
 msgid "Everything."
-msgstr "Alles"
+msgstr "Alles."
 
 #: fortify_dwarfenwall.xml:716
 msgid ""
@@ -682,7 +682,7 @@ msgid ""
 "One! ##female"
 msgstr ""
 "Mach das sofort rückgängig oder jede Wache in Aisen wird hinter dir her "
-"sein, Verfluchte!"
+"sein, Verfluchte! ##female"
 
 #: fortify_dwarfenwall.xml:724
 msgid ""
@@ -690,7 +690,7 @@ msgid ""
 "One! ##male"
 msgstr ""
 "Mach das sofort rückgängig oder jede Wache in Aisen wird hinter dir her "
-"sein, Verfluchter!"
+"sein, Verfluchter! ##male"
 
 #: fortify_dwarfenwall.xml:726
 msgid "Right, right."
@@ -722,7 +722,7 @@ msgstr "Beruhige dich, Herr der unangenehemen Lüfte!"
 
 #: fortify_dwarfenwall.xml:737
 msgid "I can hear you and we can talk, if it has to be."
-msgstr "Ich kann dich hören und wir können reden, wenn es sein muss"
+msgstr "Ich kann dich hören und wir können reden, wenn es sein muss."
 
 #: fortify_dwarfenwall.xml:738
 msgid "That's enough, don't you think?"
