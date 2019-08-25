@@ -11,14 +11,16 @@ msgstr ""
 "Project-Id-Version: sumwars 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2011-10-20 23:34+0200\n"
-"Last-Translator: Eugenio Fagioli <eugenio.fagioli@gmail.com>\n"
-"Language-Team: Italiano <>\n"
+"PO-Revision-Date: 2019-08-26 14:22+0000\n"
+"Last-Translator: leela <53352@protonmail.com>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/sumwars/"
+"defend_dwarfenwall/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bits\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #: siegeOfDwarfenwall.xml:2
 msgid "Defend Dwarfenwall"
@@ -165,7 +167,7 @@ msgstr ""
 
 #: siegeOfDwarfenwall.xml:127
 msgid "What do you say?"
-msgstr "Cosa vorresti dire, quando dici 'ricadere'?..."
+msgstr "Cosa vorresti dire, quando dici 'ricadere'?"
 
 #: siegeOfDwarfenwall.xml:131 siegeOfDwarfenwall.xml:133
 msgid "... is this a Cursed One?"
@@ -497,7 +499,7 @@ msgstr "Nessuno ha detto cha sarebbe stato facile."
 
 #: siegeOfDwarfenwall.xml:1660
 msgid "Did you now there was a wild man here two-hundred years ago?"
-msgstr "Sai...proprio qui 200 anni fa' viveva un uomo selvaggio..."
+msgstr "Sai...proprio qui 200 anni fa' viveva un uomo selvaggio?"
 
 #: siegeOfDwarfenwall.xml:1661
 msgid ""
@@ -567,7 +569,7 @@ msgid ""
 "you know."
 msgstr ""
 "La strada dall'Altopiano Grigio a questa pianura secca e desolata è stata "
-"lunga, sapete?"
+"lunga, sapete."
 
 #: siegeOfDwarfenwall.xml:1898
 msgid "And your mountain tops are more lively?"
@@ -909,7 +911,7 @@ msgstr "Non sarebbe la prima volta..."
 
 #: siegeOfDwarfenwall.xml:2384
 msgid "Do you want to tell me how to use my people?"
-msgstr "Fammi capire...mi stai dicendo come usare la mia gente?!"
+msgstr "Fammi capire...mi stai dicendo come usare la mia gente?"
 
 #: siegeOfDwarfenwall.xml:2385
 msgid "Nobody deserves such a treatment, not even them."
@@ -1097,11 +1099,11 @@ msgstr "Si tratta di un involucro."
 
 #: siegeOfDwarfenwall.xml:2711
 msgid "What? Are you kidding?"
-msgstr "Cosa? Mi stai prendendo in giro?!"
+msgstr "Cosa? Mi stai prendendo in giro?"
 
 #: siegeOfDwarfenwall.xml:2712
 msgid "Did you forget the defense of Dwarfenwall was only a warm-up?"
-msgstr "Devi sapere che Dwarfenwall era solo il riscaldamento."
+msgstr "Devi sapere che Dwarfenwall era solo il riscaldamento?"
 
 #: siegeOfDwarfenwall.xml:2713
 msgid "If you want the process to be faster, just help out a bit."
