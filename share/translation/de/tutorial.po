@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2013-11-01 15:51+0200\n"
-"Last-Translator: Stefan Stammberger <some.fusion@gmail.com>\n"
-"Language-Team: German "
-"<http://hosted.weblate.org/projects/sumwars/tutorial/de/>\n"
+"PO-Revision-Date: 2019-08-26 14:23+0000\n"
+"Last-Translator: leela <53352@protonmail.com>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/sumwars/tutorial/"
+"de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 1.8-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #: tutorial.xml:2
 msgid "Tutorial"
@@ -1477,7 +1477,7 @@ msgstr "Sehr gut. Die Geheimtür ist hier hinten."
 
 #: tutorial.xml:1836
 msgid "Wait a second. What if the old geezer has attached a trap to it?"
-msgstr "Warte mal. Am Ende hat der alte Knacker noch eine Falle angebaut."
+msgstr "Warte mal. Am Ende hat der alte Knacker noch eine Falle angebaut?"
 
 #: tutorial.xml:1838
 #, fuzzy
@@ -1607,7 +1607,7 @@ msgid ""
 "A Cursed One has to be happy if he has something to kill all along, right?"
 msgstr ""
 "Einen Verfluchten freut das sicher noch, wenn er alle Nase lang was zum "
-"töten hat."
+"töten hat?"
 
 #: tutorial.xml:2085
 msgid "I'm a Branded One! That is far worse than being cursed."
@@ -1630,7 +1630,7 @@ msgid ""
 "Cursed Ones have to be happy if they have something to kill all along, right?"
 msgstr ""
 "Die Verfluchten freut das sicher noch, wenn sie alle Nase lang was zum Töten "
-"haben."
+"haben?"
 
 #: tutorial.xml:2091
 msgid "We're Branded Ones! That is far worse than being cursed."
