@@ -11,14 +11,16 @@ msgstr ""
 "Project-Id-Version: sumwars 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2011-10-26 16:21+0200\n"
-"Last-Translator: Eugenio Fagioli <eugenio.fagioli@gmail.com>\n"
-"Language-Team: Italiano <>\n"
+"PO-Revision-Date: 2019-08-26 14:23+0000\n"
+"Last-Translator: leela <53352@protonmail.com>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/sumwars/tutorial/"
+"it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bits\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #: tutorial.xml:2
 msgid "Tutorial"
@@ -1160,7 +1162,7 @@ msgstr "Se non è stato mangiato dalle lumache la fuori, arriverà a breve."
 #: tutorial.xml:1460
 msgid "Why don't you get an energy crystal in the meantime?"
 msgstr ""
-"C'è ancora da andare a prendere il cristallo che fa da fonte di energia."
+"C'è ancora da andare a prendere il cristallo che fa da fonte di energia?"
 
 #: tutorial.xml:1461
 msgid "Without it the whole crane is useless."
@@ -1237,7 +1239,7 @@ msgstr "Ma non si trova il tanto onorato direttore."
 
 #: tutorial.xml:1569
 msgid "Then he can't have any objections, can he?"
-msgstr "Non dovrebbero esserci obiezioni quindi."
+msgstr "Non dovrebbero esserci obiezioni quindi?"
 
 #: tutorial.xml:1571
 msgid "I'd better be careful, though."
@@ -1372,7 +1374,7 @@ msgstr "Non è che vi potessero uccidere."
 
 #: tutorial.xml:1783
 msgid "It still hurts being hurt, you know?"
-msgstr "Grr, sapete, fa ancora male sentire male..."
+msgstr "Grr, sapete, fa ancora male sentire male?"
 
 #: tutorial.xml:1784
 msgid "While we are on the topic..."
