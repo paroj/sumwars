@@ -11,16 +11,16 @@ msgstr ""
 "Project-Id-Version: sumwars 0.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-03-09 15:15+0100\n"
-"PO-Revision-Date: 2015-03-09 09:48+0200\n"
-"Last-Translator: Michal Čihař <michal@cihar.com>\n"
-"Language-Team: Italian "
-"<https://hosted.weblate.org/projects/sumwars/the_ambush_of_the_undead/it/>\n"
+"PO-Revision-Date: 2019-08-26 14:23+0000\n"
+"Last-Translator: leela <53352@protonmail.com>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/sumwars/"
+"the_ambush_of_the_undead/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bits\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.3-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #: theFissure.xml:2
 msgid "The ambush of the undead"
@@ -84,7 +84,7 @@ msgstr "Stai alla grande dall'ultima volta che ci siamo visti. ##solo"
 
 #: theFissure.xml:313
 msgid "You developed splendid since the last time we met, didn't you?"
-msgstr "State alla grande dall'ultima volta che ci siamo visti."
+msgstr "State alla grande dall'ultima volta che ci siamo visti?"
 
 #: theFissure.xml:316
 msgid "How is the archmage?"
