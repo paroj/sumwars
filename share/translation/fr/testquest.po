@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2018-05-26 13:37+0000\n"
-"Last-Translator: Jacky Blois <jacky.blois@laposte.net>\n"
+"PO-Revision-Date: 2019-09-03 01:23+0000\n"
+"Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/sumwars/testquest/"
 "fr/>\n"
 "Language: fr\n"
@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.0-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #: testquest.xml:2
 msgid "Fenor Marken"
-msgstr ""
+msgstr "Fenor Marken"
 
 #: testquest.xml:3
 msgid "Test"
