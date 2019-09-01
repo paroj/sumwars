@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2018-02-02 11:36+0000\n"
-"Last-Translator: Letiteuf55 <arthur.lemoine@me.com>\n"
-"Language-Team: French "
-"<https://hosted.weblate.org/projects/sumwars/tutorial/fr/>\n"
+"PO-Revision-Date: 2019-09-03 01:23+0000\n"
+"Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/sumwars/tutorial/"
+"fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #: tutorial.xml:1845
 msgid "'course. Send the Branded One first.##female"
@@ -1179,10 +1179,12 @@ msgid ""
 "They are filled with the unfathomable wisdom of Akeran and will soon be one "
 "of the greatest works in his name."
 msgstr ""
+"Elles sont remplies de la sagesse insondable d'Akeran et seront bientôt une "
+"des plus grandes œuvres en son nom."
 
 #: tutorial.xml:1376
 msgid "They better have some serious coin for all this trouble."
-msgstr ""
+msgstr "Ils ont intérêt à avoir de l'argent pour tous ces ennuis."
 
 #: tutorial.xml:1778
 msgid "They made it!"
@@ -1210,7 +1212,7 @@ msgstr "Cette ordure ?"
 
 #: tutorial.xml:1516
 msgid "This looks like it could be a way up."
-msgstr ""
+msgstr "Ceci semble être un chemin pour monter."
 
 #: tutorial.xml:1470
 msgid "This man is beginning to test my patience."
@@ -1221,17 +1223,19 @@ msgid ""
 "To Harad! That's impossible to put up with. Give me my weapon and I'll take "
 "care of that."
 msgstr ""
+"Par Harad ! C'est insupportable. Donnez-moi mon arme et je m'en occuperai."
 
 #: tutorial.xml:792
 msgid ""
 "To Harad! That's impossible to put up with. Give us our weapons and we'll "
 "take care of that."
 msgstr ""
+"Par Harad ! C'est insupportable. Donnez-moi mon arme et je m'en occuperai."
 
 #: tutorial.xml:451 tutorial.xml:873 tutorial.xml:1035 tutorial.xml:1140
 #: tutorial.xml:1870
 msgid "Tolec"
-msgstr ""
+msgstr "Tolec"
 
 #: tutorial.xml:2
 msgid "Tutorial"
